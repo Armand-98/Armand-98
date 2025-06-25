@@ -1,4 +1,4 @@
-Hi there 👋 My name is Armand Zavala!
+## Hi there 👋 My name is Armand Zavala!
 
 Here's some things about Me,
 
