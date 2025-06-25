@@ -1,5 +1,17 @@
 Hi there 👋 My name is Armand Zavala!
 
+Here's some things about Me,
+
+I'm a Full Stack Developer, passionate about Software Engineering, Debugging, Enhancing, and taking risks.
+I specialize in Full-Stack development and Cyber Security.
+
+- 💼 **Current Role**: Specialist
+- 🎓 **Education**: Associate's Degree in IT from Full Sail Univercity (2025) and a Cyber Security Professiobal Certificate from Coursera provided by Google (2022).
+- 🌱 **Currently Learning**: Full-Stack Deelopment.
+- 🛠️ **Interests**: Coding, Game Development, Movies, Working out, and more.
+
+Feel free to connect with me via LinkedIn or email for collaboration opportunities! (Both at the bottom)
+
 - 🔭 I’m currently working on getting my career started in the constantly evolving world of tech!
   
 - 🌱 I’m currently learning all there is to fullstack developing including on how to develop an app!
