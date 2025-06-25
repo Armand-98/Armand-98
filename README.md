@@ -1,7 +1,5 @@
 ## Hi there 👋 My name is Armand Zavala!
 
-Here's some things about Me,
-
 I'm a Full Stack Developer, passionate about Software Engineering, Debugging, Enhancing, and taking risks.
 I specialize in Full-Stack development and Cyber Security.
 
@@ -10,7 +8,7 @@ I specialize in Full-Stack development and Cyber Security.
 - 🌱 **Currently Learning**: Full-Stack Deelopment.
 - 🛠️ **Interests**: Coding, Game Development, Movies, Working out, and more.
 
-Feel free to connect with me via LinkedIn or email for collaboration opportunities! (Both at the bottom)
+## Here are some things about me! 
 
 - 🔭 I’m currently working on getting my career started in the constantly evolving world of tech!
   
@@ -34,7 +32,7 @@ Here's how my repositories are organized:
 - [Repository 1 Name](#): Brief description of the repository.
 - [Repository 2 Name](#): Brief description of the repository.
 
-- 📫 How to reach me: 
+## 📫 Reach me at ↓ 
 ArmandZavala98@icloud.com | 
 [LinkedIn](https://www.linkedin.com/in/armand-zavala-619588159?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQQWa3TSISiaTawSlqkhZWA%3D%3D)
 
