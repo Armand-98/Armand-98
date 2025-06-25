@@ -22,6 +22,18 @@ Feel free to connect with me via LinkedIn or email for collaboration opportuniti
 
 - 💬 Ask me about anything! I love to help and if I am not knowledgeable on something, I will research and learn.
 
+## Navigating My GitHub 📂
+
+Here's how my repositories are organized:
+
+- **Professional Projects**: Industry-focused projects solving real-world problems.
+- **Bootcamp Projects**: Assignments and capstone projects from my learning journey.
+- **Open-Source Contributions**: Projects I’ve contributed to in the open-source community.
+
+**Popular Repositories**:
+- [Repository 1 Name](#): Brief description of the repository.
+- [Repository 2 Name](#): Brief description of the repository.
+
 - 📫 How to reach me: 
 ArmandZavala98@icloud.com | 
 [LinkedIn](https://www.linkedin.com/in/armand-zavala-619588159?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQQWa3TSISiaTawSlqkhZWA%3D%3D)
