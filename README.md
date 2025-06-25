@@ -11,6 +11,6 @@ Hi there 👋 My name is Armand Zavala!
 - 💬 Ask me about anything! I love to help and if I am not knowledgeable on something, I will research and learn.
 
 - 📫 How to reach me: 
-email: ArmandZavala98@icloud.com 
+ArmandZavala98@icloud.com 
 [LinkedIn](https://www.linkedin.com/in/armand-zavala-619588159?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQQWa3TSISiaTawSlqkhZWA%3D%3D)
 
