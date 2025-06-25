@@ -32,7 +32,24 @@ Here's how my repositories are organized:
 - [Repository 1 Name](#): Brief description of the repository.
 - [Repository 2 Name](#): Brief description of the repository.
 
-## 📫 Reach me at ↓ 
+## Skills & Tools 🛠️
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+
+### Frameworks
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
+## Let’s Collaborate! 
+
+I’m always looking for exciting new projects to work on. If you’re interested in collaborating or have an opportunity in mind, feel free to reach out at ↓
+
 ArmandZavala98@icloud.com | 
 [LinkedIn](https://www.linkedin.com/in/armand-zavala-619588159?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQQWa3TSISiaTawSlqkhZWA%3D%3D)
 
