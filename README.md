@@ -6,7 +6,7 @@ I'm a Full Stack Developer, passionate about Software Engineering, Debugging, En
 I specialize in Full-Stack development and Cyber Security.
 
 - 💼 **Current Role**: Specialist
-- 🎓 **Education**: Associate's Degree in IT from Full Sail Univercity (2025) and a Cyber Security Professiobal Certificate from Coursera provided by Google (2022).
+- 🎓 **Education**: Associate's Degree in IT from Full Sail Univercity (2025) and a Cyber Security Professional Certificate from Coursera provided by Google (2022).
 - 🌱 **Currently Learning**: Full-Stack Deelopment.
 - 🛠️ **Interests**: Coding, Game Development, Movies, Working out, and more.
 
